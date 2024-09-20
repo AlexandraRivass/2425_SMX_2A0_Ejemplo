@@ -17,10 +17,10 @@ Este texto esta en **cursiva** y este también está en _cursiva_
 	1. Primer subelemento
 	2. Segundo subelemento
 2. Segundo elemento de la lista
-	*Sublista 2 Elemento 1
-	*Sublista 2 Elemento 2 
+	* Sublista 2 Elemento 1
+	* Sublista 2 Elemento 2 
 3. Tercer elemento de la lista 
 
-*Elemento 1 
--Elemento 2
-+Elemento 3 
+* Elemento 1 
+- Elemento 2
++ Elemento 3 
