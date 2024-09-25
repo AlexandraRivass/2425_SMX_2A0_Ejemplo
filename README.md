@@ -31,3 +31,8 @@ Este texto esta en **cursiva** y este también está en _cursiva_
 ![Sage](https://github.com/AlexandraRivass/2425_SMX_2A0_Ejemplo/blob/main/jvz8cw9qej571.jpg "Titulo opcional de la imagen")
 
 
+|Columna 1 |Columna 2 | Columna 3 |
+|-------------|:-------------:|------------:|
+|Col 3 es |right-aligned|$1600
+|Col 2 es |centered|$14
+|zebra stripes |son limpias|$1
